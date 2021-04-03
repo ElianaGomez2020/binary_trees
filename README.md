@@ -1,13 +1,4 @@
-<p align="center">
-     <p align="center">
-          <a href="https://github.com/ElianaGomez2020/binary_trees/graphs/contributors">
-               <img alt="contributors" src="https://img.shields.io/github/contributors/ElianaGomez2020/binary_trees" target="_blank" />
-          </a>
-          <a href="https://github.com/ElianaGomez2020s/binary_trees" target="_blank">
-               <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-          </a>
-     </p>
-</p>
+
 
 <h1 align="center">0x1D. C - Binary trees</h1>
 
